@@ -96,4 +96,21 @@ Nesta aula, o instrutor ensina como ajustar a fonte do menu e criar uma seção 
 
 Nesta aula, o instrutor ensina como configurar a seção de boas-vindas em um site utilizando o Elementor. Ele mostra como criar uma nova seção, definir o título, configurar a cor e a fonte do texto, adicionar um divisor e um texto abaixo dele. Também é explicado como ajustar o espaçamento entre os elementos. O instrutor finaliza mencionando que a configuração da seção de boas-vindas está concluída e que no próximo vídeo será ensinado como replicar essa seção no Elementor.
 
-Ofertas da semana
+### Aula 03 - Ofertas da semana - Video 3
+
+Nesta aula, o instrutor ensina como criar a seção de "Ofertas da semana" em um site utilizando o Elementor. Ele explica que é possível duplicar elementos existentes e fazer as alterações necessárias para facilitar o processo. O instrutor detalha as configurações de cada elemento do card, como adicionar uma imagem de fundo, configurar o estilo do título, adicionar o texto do preço e um botão de "Ver detalhes". Ele também explica como adicionar uma sobreposição de cor preta com 50% de opacidade para dar um efeito de sombreamento à imagem de fundo do card. Por fim, o instrutor desafia os espectadores a criarem os outros cards, fazendo as alterações necessárias e utilizando as fotos correspondentes e os valores indicados no layout do Figma.
+
+### Aula 03 - Seção de categorias - Video 4
+
+Nesta aula, o instrutor discute sobre a troca de navegador e como isso afeta a aparência do site. Ele menciona correções a serem feitas, como ajustar o nome de uma seção, a borda de uma imagem e criar uma nova seção. Ele detalha os passos para realizar essas correções usando o Elementor. O instrutor destaca a importância de seguir o layout do Figma ao fazer as alterações no site, como trocar o nome de uma seção, adicionar bordas arredondadas às colunas, ajustar espaçamentos e adicionar ícones e títulos às seções. Ele também menciona a importância de escolher as cores corretas e ajustar a tipografia para corresponder ao design do Figma. No final, ele deixa algumas atividades para o espectador concluir.
+
+### Aula 03 Conclusão- Nessa aula aprendemos
+
+O que é o Elementor e para o que ele serve;
+A usar o Elementor, construindo as seções do site;
+Utilizar as tags HTML de acordo com a nossa necessidade.
+
+## Aula 04 - Finalizando a Home
+
+### Aula 04 - Destinos populares - Video 1
+
