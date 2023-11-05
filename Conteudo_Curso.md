@@ -114,3 +114,24 @@ Utilizar as tags HTML de acordo com a nossa necessidade.
 
 ### Aula 04 - Destinos populares - Video 1
 
+Nesta aula, o instrutor discute sobre a correção de problemas de layout em uma página web. Ele menciona problemas de espaçamento e desalinhamento em colunas específicas. Para corrigir esses problemas, é necessário ajustar o tamanho dos títulos e alinhar o conteúdo das colunas na parte inferior. O instrutor demonstra como realizar essas correções no Elementor, utilizando opções de alinhamento vertical e o navegador. Além disso, ele mostra como duplicar seções, renomear elementos e realizar ajustes de estilo. No final, o instrutor menciona a próxima seção a ser trabalhada, "Destinos populares", e dá instruções sobre como adicionar elementos nessa seção.
+
+### Aula 04 - Condições de pagamento - Video 2
+
+Nesta aula, o instrutor ensina como criar a seção de "Condições de Pagamento" em um site utilizando o Elementor. Ele explica como estruturar a seção com duas colunas, uma menor à esquerda e uma maior à direita, com subdivisões contendo imagens. O instrutor também mostra como ajustar o tamanho e a estilização das imagens para que se encaixem corretamente no layout. Por fim, ele realiza os ajustes finais na coluna de texto, como alinhamento, cor, fonte e tamanho.
+
+### Aula 04 - Depoimentos - Video 3
+
+Nesta aula, o instrutor ensina como desenvolver a seção de depoimentos em uma plataforma chamada Figma. Ele explica como criar a estrutura dos depoimentos, personalizar os elementos e alinhar o conteúdo corretamente. O instrutor destaca a importância de seguir o layout definido no Figma para garantir a consistência visual do site.
+
+### Aula 04 Conclusão - Nessa aula aprendemos
+
+Reutilizar um conjunto de elementos criados na interface para criar um novo;
+Utilizar o componente “Seção Interna” para criar subdivisões dentro de uma seção já definida;
+Ajustar a exibição de imagens com dimensões alteradas diretamente na interface;
+Definir o alinhamento de elementos dentro de uma coluna.
+
+## Aula 05 - Rodapé e detalhes finais
+
+### Aula 05 - Painel rotativo - Video 1
+
