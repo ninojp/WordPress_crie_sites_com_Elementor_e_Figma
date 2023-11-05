@@ -90,3 +90,10 @@ A deixar o menu de navegação com uma boa experiência de usuário.
 
 ### Aula 03 - Explorando o Elementor e construindo o banner - Video 1
 
+Nesta aula, o instrutor ensina como ajustar a fonte do menu e criar uma seção de banner utilizando o Elementor no WordPress. Ele explica passo a passo como acessar os elementos do layout, fazer as modificações desejadas e salvar as configurações. O Elementor oferece mais liberdade de edição do que os recursos do tema, permitindo ajustes mais simples no topo e rodapé do site. O instrutor também mostra como configurar a largura do conteúdo, ocultar o título da página e definir uma imagem de fundo para a seção de banner. No final, ele menciona que o banner está configurado e que podem prosseguir para a próxima parte do vídeo.
+
+### Aula 03 - Seção boas-vindas - Video 2
+
+Nesta aula, o instrutor ensina como configurar a seção de boas-vindas em um site utilizando o Elementor. Ele mostra como criar uma nova seção, definir o título, configurar a cor e a fonte do texto, adicionar um divisor e um texto abaixo dele. Também é explicado como ajustar o espaçamento entre os elementos. O instrutor finaliza mencionando que a configuração da seção de boas-vindas está concluída e que no próximo vídeo será ensinado como replicar essa seção no Elementor.
+
+Ofertas da semana
