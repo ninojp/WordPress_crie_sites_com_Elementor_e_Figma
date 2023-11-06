@@ -135,3 +135,13 @@ Definir o alinhamento de elementos dentro de uma coluna.
 
 ### Aula 05 - Painel rotativo - Video 1
 
+Nesta aula, o instrutor ensina como adicionar um painel rotativo de imagens na página inicial de um site utilizando o Elementor. Ele explica que é necessário utilizar o plugin Smart Slider 3 para criar esse recurso. O instrutor mostra como instalar e ativar o plugin, criar um novo projeto de slider e configurar as opções desejadas. Ele também ensina como fazer o upload e organizar as imagens, definir a reprodução automática e remover os controles de seta. Por fim, o instrutor mostra como inserir o código shortcode gerado pelo Smart Slider 3 na página inicial do site usando o Elementor e verifica se as alterações foram aplicadas corretamente.
+
+### Aula 05 - Construindo o rodapé - Video 2
+
+Nesta aula, o instrutor ensina como criar um rodapé personalizado para a homepage de um site utilizando o WordPress e o Elementor. Ele mostra como desativar o rodapé padrão do tema Astra e criar um novo rodapé com duas colunas. São adicionados elementos como uma imagem de logo, texto com informações sobre o site, título e ícones de redes sociais. O instrutor também destaca a importância de selecionar a tag HTML correta para otimização de SEO. Por fim, ele ajusta o espaçamento entre o slider e o rodapé para que fiquem alinhados corretamente.
+
+### Aula 05 Conclusão - Nessa aula aprendemos
+
+Vimos como utilizar um novo plugin para gerar o Painel Rotativo do rodapé do nosso site e porquê tivemos que usar um recurso adicional ao invés do próprio Elementor;
+Vimos como fazer uso do Elementor para construir a estrutura do rodapé geral do site e as razões de não termos usados os recursos do tema Astra (como fizemos no cabeçalho).
